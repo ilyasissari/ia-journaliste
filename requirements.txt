@@ -1,5 +1,5 @@
 streamlit==1.25.0
 transformers==4.30.0
 diffusers==0.16.0
-torch==2.0.1 --extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.2.0  # Version compatible avec Python 3.8+
 accelerate>=0.20.0
