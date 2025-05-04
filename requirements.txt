@@ -4,4 +4,4 @@ diffusers==0.16.0
 torch==2.2.0
 accelerate>=0.20.0
 tokenizers==0.13.3
-pillow==9.7.0  # Version compatible avec streamlit 1.25.0
+pillow==9.5.0  # Version stable confirmée disponible
