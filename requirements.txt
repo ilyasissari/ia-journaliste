@@ -1,5 +1,7 @@
 streamlit==1.25.0
 transformers==4.30.0
 diffusers==0.16.0
-torch==2.2.0  # Version compatible avec Python 3.8+
+torch==2.2.0
 accelerate>=0.20.0
+tokenizers==0.13.3  # Version spécifique testée
+pillow==9.5.0  # Version stable
