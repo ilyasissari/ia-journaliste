@@ -1,8 +1,4 @@
 streamlit==1.25.0
-transformers==4.30.0
-diffusers==0.16.0
-torch==2.2.0
-accelerate>=0.20.0
-tokenizers==0.13.3  # Version pré-compilée
-pillow==9.5.0  # Version stable
---extra-index-url https://download.pytorch.org/whl/cpu  # Pour torch CPU
+transformers==4.25.0
+torch==1.13.1+cpu
+pillow==9.5.0
